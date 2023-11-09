@@ -1,0 +1,15 @@
+.banner {
+    background-image: url("./media/bannerr.png");
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.isi {
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+    text-align: justify;
+}
